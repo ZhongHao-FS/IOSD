@@ -1,0 +1,3 @@
+[{"name":"Stop & Shop","shoppingList":[{"name":"Bananas","purchased":false},{"name":"Ham","purchased":false},{"name":"Cheese","purchased":false},{"name":"Milk","purchased":true},{"name":"Almonds","purchased":true}]},
+    {"name":"Shop Rite","shoppingList":[{"name":"Peaches","purchased":false},{"name":"Steak","purchased":false},{"name":"Yogurt","purchased":false},{"name":"Orange Juice","purchased":false},{"name":"Grapes","purchased":false}]},
+{"name":"Aldis","shoppingList":[{"name":"Corn","purchased":false},{"name":"Wings","purchased":false},{"name":"Onions","purchased":false},{"name":"Coffee","purchased":false},{"name":"Tomatoes","purchased":false}]}]

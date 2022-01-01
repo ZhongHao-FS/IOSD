@@ -1,0 +1,10 @@
+[{"name":"Diana","age":19,"male":false,"height":5.4},
+{"name":"Anna","age":18,"male":false,"height":5.5},
+{"name":"Julie","age":21,"male":false,"height":5.7},
+{"name":"Richard","age":24,"male":true,"height":5.7},
+{"name":"Kelly","age":17,"male":false,"height":5.5},
+{"name":"Dylon","age":20,"male":true,"height":6.2},
+{"name":"Howard","age":28,"male":true,"height":5.8},
+{"name":"Deah","age":22,"male":false,"height":5.8},
+{"name":"Will","age":23,"male":true,"height":5.6},
+{"name":"Monica","age":25,"male":false,"height":5.5}]
